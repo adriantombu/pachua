@@ -1,0 +1,13 @@
+[package]
+name = "pachua"
+version = "0.1.0"
+edition = "2021"
+authors = ["Adrian Tombu <adrian@otso.fr>"]
+keywords = ["aeronautics", "aviation", "metar", "meteo", "flight"]
+categories = ["aerospace", "science::geo", "web-programming"]
+description = "Rust library to retrieve data from Pachua"
+license = "GPL-3.0"
+repository = "https://github.com/adriantombu/pachua"
+include = ["/src", "LICENSE.md", "README.md"]
+
+[dependencies]
